@@ -1907,12 +1907,12 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
-jano5.login("");
-jano6.login("");
+jano.login("926287520474464267");
+jano2.login("OTMzNDI5NzQwNzc2MzQ5NzU3.YehaoA.QgXqiHvb4KdYcbus_Oh9j7oNFJU");
+jano3.login("OTI2NjI4OTk2NjE4MjgxMDUz.YefcAw.mmiqFZxVrztoFgSzmM_X1lJEI-8");
+jano4.login("OTMyMzQzNjk5MDg4NzU2ODA2.YeRncw.FOIUhICvAq3CyUfXRhnVgFijdjk");
+jano5.login("OTI5NjU1OTc5NzkwOTYyNzQw.YdqgeQ.5SFfBsltnn_i--Wst6Ba1uO-GbA");
+jano6.login("OTI2MjcxMzE3MTg2MDcyNTk3.Yc5QLg.ThH14vHLAg46VOZyCLMsJK8Yl2A");
 jano7.login("");
 jano8.login("");
 jano9.login("");
