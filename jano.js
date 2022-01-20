@@ -1,5 +1,5 @@
-const Discord = require("discord.js");
-const jano = new Discord.Client();
+      
+كونست  جانو  =  الخلاف الجديد  . العميل () ؛
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
 const jano4 = new Discord.Client();
